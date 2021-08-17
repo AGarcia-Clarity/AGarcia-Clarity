@@ -1,6 +1,6 @@
 # :wave: Hello, I'm Alexander
 - :office: I'm working as a Software Engineer at [Clarity Innovations](https://clarityinnovates.com)
-- :fire: Currently working on the VA.gov sign-in experience .
+- :fire: Currently working on the sign-in experience at VA.gov.
 - :gear: I love to code in **JavaScript** and **Node.js**
 - :grapes: I am a huge fan of JAMStacks that include **Gatsby**, **Next**, **Nuxt**, and **Gridsome**
 - :bulb: I would like to work more with **Python**, **Flutter**, **Golang**, and **Rust**
