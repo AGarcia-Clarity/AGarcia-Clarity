@@ -1,25 +1,24 @@
 # :wave: Hello, I'm Alexander
-- :office: I'm working as a Software Engineer at [Clarity Innovations](https://clarityinnovates.com)
-- :fire: Currently working on the sign-in experience at VA.gov.
+- :office: I'm working as a **Sr. Frontend Engineer**, Identity Frontend Lead at [Oddball](https://oddball.io)
+- :fire: Currently working on the sign-in experience & identity and access management at VA.gov.
 - :gear: I love to code in **JavaScript** and **Node.js**
 - :grapes: I am a huge fan of JAMStacks that include **Gatsby**, **Next**, **Nuxt**, and **Gridsome**
-- :bulb: I would like to work more with **Python**, **Flutter**, **Golang**, and **Rust**
+- :bulb: I would like to work more with **Python**, **Golang**, and **Rust**
 - :pen: I need to start a blog
+- 🥤 I collect tiki mugs
 - :rainbow: He/him
 
 ### Follow me
-[![Twitter: asg5704](https://img.shields.io/twitter/follow/asg5704?style=social)](https://twitter.com/asg5704)<br/>
-[![GitHub AGarcia-Clarity](https://img.shields.io/github/followers/AGarcia-Clarity?label=follow-AGarcia-Clarity&style=social)](https://github.com/AGarcia-Clarity)<br/>
+[![GitHub asg5704-deprecated](https://img.shields.io/github/followers/asg5704-deprecated?label=follow-asg5704-deprecated&style=social)](https://github.com/asg5704-deprecated)<br/>
 [![GitHub asg5704](https://img.shields.io/github/followers/asg5704?label=follow-asg5704&style=social)](https://github.com/asg5704)
 
 ### OSS
-[![AGarcia-Clarity GitHub stats](https://github-readme-stats.vercel.app/api?username=AGarcia-Clarity&show_icons=true&theme=vue&count_private=true)](https://github.com/AGarcia-Clarity/github-readme-stats)
+[![asg5704 GitHub stats](https://github-readme-stats.vercel.app/api?username=asg5704&show_icons=true&theme=vue&count_private=true)](https://github.com/asg5704/github-readme-stats)
 
 
 ### Get in touch
-- [Twitter](https://twitter.com/asg5704)
 - [LinkedIn](https://linkedin.com/in/asg5704)
-- [Website](https://alexandergarcia.me/contact)
+- [Website](https://alexandergarcia.me)
 
 ### Pizza is appreciated
 [Buy me a pizza :pizza:](https://www.buymeacoffee.com/asg5704)
