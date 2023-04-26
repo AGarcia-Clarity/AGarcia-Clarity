@@ -1,6 +1,6 @@
 # :wave: Hello, I'm Alexander
-- :office: I'm working as a **Sr. Frontend Engineer**, Identity Frontend Lead at [Oddball](https://oddball.io)
-- :fire: Currently working on the sign-in experience & identity and access management at VA.gov.
+- :office: A passionate Lead Front-End Engineer who leads distributed teams in creating complex, high-performing web applications.
+- :fire: Currently working on the sign-in experience & identity and access management at Oddball for VA.gov
 - :gear: I love to code in **JavaScript** and **Node.js**
 - :grapes: I am a huge fan of JAMStacks that include **Gatsby**, **Next**, **Nuxt**, and **Gridsome**
 - :bulb: I would like to work more with **Python**, **Golang**, and **Rust**
