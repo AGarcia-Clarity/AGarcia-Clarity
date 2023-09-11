@@ -4,7 +4,7 @@
 - :gear: I love to code in **JavaScript** and **Node.js**
 - :grapes: I am a huge fan of JAMStacks that include **Gatsby**, **Next**, **Nuxt**, and **Gridsome**
 - :bulb: I would like to work more with **Python**, **Golang**, and **Rust**
-- :pen: I need to start a blog
+- :pen: I have a [blog](https://alexandergarcia.me/blog) but I need to write more 😅
 - 🥤 I collect tiki mugs
 - :rainbow: He/him
 
