@@ -14,6 +14,7 @@
 
 ### OSS
 [![asg5704 GitHub stats](https://github-readme-stats.vercel.app/api?username=asg5704&show_icons=true&theme=vue&count_private=true)](https://github.com/asg5704/github-readme-stats)
+[![asg5704 Github stuff](https://github-profile-trophy.vercel.app/?username=asg5704)
 
 
 ### Get in touch
