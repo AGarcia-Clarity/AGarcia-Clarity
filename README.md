@@ -1,4 +1,4 @@
-# :wave: Hello, I'm Alexander (he/him)
+# :wave: Hello, I'm Alexander
 - :office: A passionate Front-End Engineer who leads distributed teams in creating complex, high-performing web applications.
 - :fire: Currently working on the sign-in experience & identity and access management for VA.gov
 - :gear: I love to code in **JavaScript** and **Node.js**
